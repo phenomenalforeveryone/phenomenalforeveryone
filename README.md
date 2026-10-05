@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Urvi Singh 👋
 
-<!--
-**phenomenalforeveryone/phenomenalforeveryone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ Shri Ramswaroop Memorial University  
+📊 B.Sc. Data Science & Applications @ IIT Madras
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in Artificial Intelligence, Generative AI, Computer Vision, Data Science, and Cybersecurity.
+
+I enjoy building projects, exploring new technologies, and learning through hands-on development.
+
+### Interests
+
+- 🤖 Artificial Intelligence & Generative AI
+- 👁️ Computer Vision
+- 📊 Data Science & Machine Learning
+- 🔐 Cybersecurity
+- 💻 Software Development
+- 🔧 Embedded Systems
+
+### Currently Learning
+
+- AI/ML
+- Generative AI
+- Computer Vision
+- Data Science
+- Cybersecurity
+
+### Featured Projects
+
+🔹 **SiteSight AI** — AI-driven safety inspection and risk intelligence prototype
+
+🔹 **Smart Parking Projects** — Prototypes developed for Smart India Hackathon 2026
+
+🔹 **Wearable Posture Reminder System** — Arduino-based posture monitoring system
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/urvi-singh-097192324/)
